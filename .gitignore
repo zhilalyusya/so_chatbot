@@ -1,0 +1,14 @@
+### Code ###
+.vscode/*
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Others ###
+thread_embeddings_by_tags/**
+*.sqlite3
+sentence_tokenizer.pickle
+word_embeddings.tsv
